@@ -1,10 +1,10 @@
-LETSENCRYPT_EMAIL=email@example.com
-ERPNEXT_VERSION=edge
-FRAPPE_VERSION=edge
+LETSENCRYPT_EMAIL=cs@klzaman.sa
+ERPNEXT_VERSION=version-13
+FRAPPE_VERSION=version-13
 MARIADB_HOST=mariadb
 MYSQL_ROOT_PASSWORD=admin
-SITE_NAME=erp.example.com
-SITES=`erp.example.com`
+SITE_NAME=zamanlite.localhost
+SITES=`zamanlite.localhost`
 DB_ROOT_USER=root
 ADMIN_PASSWORD=admin
 INSTALL_APPS=erpnext
